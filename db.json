@@ -188,7 +188,7 @@
       "id": 20234,
       "name": {
         "value": "Porcentaje Avance Padrón Vehicular ",
-        "synonyms": []
+        "synonyms": ["padron vehiculos", "padron coches"]
       }
     },
     {
@@ -209,7 +209,7 @@
       "id": 20237,
       "name": {
         "value": "Porcentaje Avance Esquemas Retribución",
-        "synonyms": []
+        "synonyms": ["Avance Retribucion", "Avance Retribución"]
       }
     }
   ]
