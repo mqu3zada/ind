@@ -1,53 +1,9 @@
-
-  
 {
   "types": [
-    {
-      "id": 18319,
-      "name": {
-        "value": "Ventas Netas",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 18320,
-      "name": {
-        "value": "Gastos Corporativo",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 19743,
-      "name": {
-        "value": "630-02-03-009 Soporte a Servidores",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 19744,
-      "name": {
-        "value": "Pecera",
-        "synonyms": []
-      }
-    },
     {
       "id": 19774,
       "name": {
         "value": "Inversión Iniciativas y Proyectos Estratégicos",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 19775,
-      "name": {
-        "value": "Inversión EnLinea",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 19776,
-      "name": {
-        "value": "Inversión Data",
         "synonyms": []
       }
     },
@@ -59,157 +15,192 @@
       }
     },
     {
-      "id": 19823,
+      "id": 20457,
       "name": {
-        "value": "Valor de la Empresa Enlinea",
+        "value": "Utilidad después de Inversión",
         "synonyms": []
       }
     },
     {
-      "id": 19825,
+      "id": 20253,
       "name": {
-        "value": "Inversión Valor Empresarial",
+        "value": "% Cumplimiento proyectos CA",
         "synonyms": []
       }
     },
     {
-      "id": 19826,
-      "name": {
-        "value": "Valor de la Empresa Servicios Corporativos Sicoss",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 19827,
-      "name": {
-        "value": "Inversión Consolidé",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 19834,
-      "name": {
-        "value": "Valor de la Empresa Consolide ",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 19839,
-      "name": {
-        "value": "Valor de la Empresa Data",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 20104,
-      "name": {
-        "value": "Porcentaje Avance - Go to market DATA",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 20105,
-      "name": {
-        "value": "Porcentaje Avance - Go to market CONSOLIDÉ",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 20106,
-      "name": {
-        "value": "Porcentaje Avance - Aceleradora Negocios",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 20108,
-      "name": {
-        "value": "Porcentaje Avance - Go to market ENLINEA",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 20111,
-      "name": {
-        "value": "Porcentaje Avance - Mapas Estratégicos",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 20112,
-      "name": {
-        "value": "Porcentaje Avance - Gestión Iniciativas y Proyectos",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 20228,
-      "name": {
-        "value": "Porcentaje Avance Proyectos CN",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 20229,
+      "id": 20256,
       "name": {
         "value": "% cumplimiento proyectos CN",
         "synonyms": []
       }
     },
     {
-      "id": 20230,
+      "id": 20278,
       "name": {
-        "value": "% cumplimiento proyectos Soporte Operación",
+        "value": "% cumplimiento total proyectos",
         "synonyms": []
       }
     },
     {
-      "id": 20231,
+      "id": 20473,
       "name": {
-        "value": "Porcentaje Avance Compliance",
+        "value": "Utilidad después de Inversión",
         "synonyms": []
       }
     },
     {
-      "id": 20232,
+      "id": 18615,
       "name": {
-        "value": "Porcentaje Avance Proveer información legal ",
+        "value": "Valor de la empresa",
         "synonyms": []
       }
     },
     {
-      "id": 20233,
+      "id": 20461,
       "name": {
-        "value": "Porcentaje Avance Procesos Fiscales",
+        "value": "Utilidad después de Inversión",
         "synonyms": []
       }
     },
     {
-      "id": 20234,
+      "id": 18322,
       "name": {
-        "value": "Porcentaje Avance Padrón Vehicular ",
-        "synonyms": ["padron vehiculos", "padron coches"]
-      }
-    },
-    {
-      "id": 20235,
-      "name": {
-        "value": "Porcentaje Avance Manual Calidad",
+        "value": "Valor de la Empresa",
         "synonyms": []
       }
     },
     {
-      "id": 20236,
+      "id": 19094,
       "name": {
-        "value": "Porcentaje Avance Eficientar Gastos ",
+        "value": "% cumplimiento proyectos CA",
         "synonyms": []
       }
     },
     {
-      "id": 20237,
+      "id": 20464,
       "name": {
-        "value": "Porcentaje Avance Esquemas Retribución",
-        "synonyms": ["Avance Retribucion", "Avance Retribución"]
+        "value": "Utilidad después de inversión",
+        "synonyms": []
+      }
+    },
+    {
+      "id": 18293,
+      "name": {
+        "value": "Inversión en iniciativas y proyectos estratégicos",
+        "synonyms": []
+      }
+    },
+    {
+      "id": 18605,
+      "name": {
+        "value": "Valor de la Empresa",
+        "synonyms": []
+      }
+    },
+    {
+      "id": 19247,
+      "name": {
+        "value": "% cumplimiento proyectos CN",
+        "synonyms": []
+      }
+    },
+    {
+      "id": 20460,
+      "name": {
+        "value": "Utilidad después de Inversión",
+        "synonyms": []
+      }
+    },
+    {
+      "id": 19301,
+      "name": {
+        "value": "Saldo de Bancos",
+        "synonyms": []
+      }
+    },
+    {
+      "id": 19394,
+      "name": {
+        "value": "Valor de la Empresa",
+        "synonyms": []
+      }
+    },
+    {
+      "id": 20092,
+      "name": {
+        "value": "% cumplimiento proyectos CN",
+        "synonyms": []
+      }
+    },
+    {
+      "id": 19569,
+      "name": {
+        "value": "Utilidad Neta",
+        "synonyms": []
+      }
+    },
+    {
+      "id": 19610,
+      "name": {
+        "value": "Valor de la Empresa",
+        "synonyms": []
+      }
+    },
+    {
+      "id": 19611,
+      "name": {
+        "value": "Ventas Netas",
+        "synonyms": []
+      }
+    },
+    {
+      "id": 19614,
+      "name": {
+        "value": "Gasto Total",
+        "synonyms": []
+      }
+    },
+    {
+      "id": 19615,
+      "name": {
+        "value": "Liquidez",
+        "synonyms": []
+      }
+    },
+    {
+      "id": 19616,
+      "name": {
+        "value": "Liquidez Inmediata",
+        "synonyms": []
+      }
+    },
+    {
+      "id": 19617,
+      "name": {
+        "value": "Días Cartera",
+        "synonyms": []
+      }
+    },
+    {
+      "id": 19618,
+      "name": {
+        "value": "Endeudamiento",
+        "synonyms": []
+      }
+    },
+    {
+      "id": 19619,
+      "name": {
+        "value": "Apalancamiento",
+        "synonyms": []
+      }
+    },
+    {
+      "id": 19621,
+      "name": {
+        "value": "Utilidad Neta",
+        "synonyms": []
       }
     }
   ]
