@@ -1,0 +1,30 @@
+{
+  "Exito": "True",
+  "Error": "SinError",
+  "Datos": [
+    {
+      "Etiqueta": "Indicador 1",
+      "ID": 1
+    },
+    {
+      "Etiqueta": "Indicador 2",
+      "ID": 2
+    },
+    {
+      "Etiqueta": "Indicador 3",
+      "ID": 3
+    },
+    {
+      "Etiqueta": "Indicador 4",
+      "ID": 4
+    },
+    {
+      "Etiqueta": "Indicador 5",
+      "ID": 5
+    },
+    {
+      "Etiqueta": "Indicador 6",
+      "ID": 6
+    }
+  ]
+}
