@@ -1,207 +1,30 @@
 {
-  "types": [
+  "Exito": "True",
+  "Error": "SinError",
+  "Datos": [
     {
-      "id": 19774,
-      "name": {
-        "value": "Inversión Iniciativas y Proyectos Estratégicos",
-        "synonyms": []
-      }
+      "Etiqueta": "Indicador 1",
+      "ID": 1
     },
     {
-      "id": 19790,
-      "name": {
-        "value": "Valor del Grupo",
-        "synonyms": []
-      }
+      "Etiqueta": "Indicador 2",
+      "ID": 2
     },
     {
-      "id": 20457,
-      "name": {
-        "value": "Utilidad después de Inversión",
-        "synonyms": []
-      }
+      "Etiqueta": "Indicador 3",
+      "ID": 3
     },
     {
-      "id": 20253,
-      "name": {
-        "value": "% Cumplimiento proyectos CA",
-        "synonyms": []
-      }
+      "Etiqueta": "Indicador 4",
+      "ID": 4
     },
     {
-      "id": 20256,
-      "name": {
-        "value": "% cumplimiento proyectos CN",
-        "synonyms": []
-      }
+      "Etiqueta": "Indicador 5",
+      "ID": 5
     },
     {
-      "id": 20278,
-      "name": {
-        "value": "% cumplimiento total proyectos",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 20473,
-      "name": {
-        "value": "Utilidad después de Inversión",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 18615,
-      "name": {
-        "value": "Valor de la empresa",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 20461,
-      "name": {
-        "value": "Utilidad después de Inversión",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 18322,
-      "name": {
-        "value": "Valor de la Empresa",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 19094,
-      "name": {
-        "value": "% cumplimiento proyectos CA",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 20464,
-      "name": {
-        "value": "Utilidad después de inversión",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 18293,
-      "name": {
-        "value": "Inversión en iniciativas y proyectos estratégicos",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 18605,
-      "name": {
-        "value": "Valor de la Empresa",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 19247,
-      "name": {
-        "value": "% cumplimiento proyectos CN",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 20460,
-      "name": {
-        "value": "Utilidad después de Inversión",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 19301,
-      "name": {
-        "value": "Saldo de Bancos",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 19394,
-      "name": {
-        "value": "Valor de la Empresa",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 20092,
-      "name": {
-        "value": "% cumplimiento proyectos CN",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 19569,
-      "name": {
-        "value": "Utilidad Neta",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 19610,
-      "name": {
-        "value": "Valor de la Empresa",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 19611,
-      "name": {
-        "value": "Ventas Netas",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 19614,
-      "name": {
-        "value": "Gasto Total",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 19615,
-      "name": {
-        "value": "Liquidez",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 19616,
-      "name": {
-        "value": "Liquidez Inmediata",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 19617,
-      "name": {
-        "value": "Días Cartera",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 19618,
-      "name": {
-        "value": "Endeudamiento",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 19619,
-      "name": {
-        "value": "Apalancamiento",
-        "synonyms": []
-      }
-    },
-    {
-      "id": 19621,
-      "name": {
-        "value": "Utilidad Neta",
-        "synonyms": []
-      }
+      "Etiqueta": "Indicador 6",
+      "ID": 6
     }
   ]
 }
