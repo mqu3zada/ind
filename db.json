@@ -1,23 +1,23 @@
 {
   "Datos": [
     {
-      "Etiqueta": "Indicador 1",
+      "Etiqueta": "ventas netas",
       "Id": 1
     },
     {
-      "Etiqueta": "Indicador 2",
+      "Etiqueta": "ventas netas clientes actuales",
       "Id": 2
     },
     {
-      "Etiqueta": "Indicador 3",
+      "Etiqueta": "ventas netas clientes nuevos",
       "Id": 3
     },
     {
-      "Etiqueta": "Indicador 4",
+      "Etiqueta": "apalancamiento",
       "Id": 4
     },
     {
-      "Etiqueta": "Indicador 5",
+      "Etiqueta": "endeudamiento",
       "Id": 5
     },
     {
