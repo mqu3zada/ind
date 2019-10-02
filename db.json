@@ -1,32 +1,32 @@
 {
   "Datos": [
     {
-      "Etiqueta": "ventas netas",
-      "Id": 1
+      "Descripcion": "ventas netas",
+      "Indicador_ID": 1
     },
     {
-      "Etiqueta": "ventas netas clientes actuales",
-      "Id": 2
+      "Descripcion": "ventas netas clientes actuales",
+      "Indicador_ID": 2
     },
     {
-      "Etiqueta": "ventas netas clientes nuevos",
-      "Id": 3
+      "Descripcion": "ventas netas clientes nuevos",
+      "Indicador_ID": 3
     },
     {
-      "Etiqueta": "apalancamiento",
-      "Id": 4
+      "Descripcion": "apalancamiento",
+      "Indicador_ID": 4
     },
     {
-      "Etiqueta": "endeudamiento",
-      "Id": 5
+      "Descripcion": "endeudamiento",
+      "Indicador_ID": 5
     },
     {
-      "Etiqueta": "Indicador 6",
-      "Id": 6
+      "Descripcion": "Indicador 6",
+      "Indicador_ID": 6
     },
      {
-      "Etiqueta": "Indicador 7",
-      "Id": 7
+      "Descripcion": "Indicador 7",
+      "Indicador_ID": 7
     }
   ]
 }
